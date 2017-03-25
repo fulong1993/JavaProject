@@ -18,6 +18,8 @@ public void triangle() {
 
 		System.out.println();
 System.out.println("第四次提交");
+System.out.println("第2次提交");
+System.out.println("第2次提交");
 			
 		}
 
