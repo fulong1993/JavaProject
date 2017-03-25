@@ -24,6 +24,9 @@ System.out.println("第2次提交");
 		}
 
 	}
+	public void name1() {
+		System.out.println("提交测试");
+	}
 	}
 
 
